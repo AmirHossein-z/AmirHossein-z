@@ -1,2 +1,2 @@
 Hi everyone!
-I'm learning python.
+I'm learning Cplusplus, python.
