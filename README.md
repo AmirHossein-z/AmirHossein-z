@@ -1,3 +1,2 @@
-Hi everyone!
-I'm learning Cplusplus.
-I like GNU/linux
+Hi everyone
+I am learning linux and cpp.
