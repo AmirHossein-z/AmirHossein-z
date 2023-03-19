@@ -16,8 +16,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhossein-z&show_icons=true&locale=en&layout=compact" alt="amirhossein-z" /></p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/amirhos30829321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhos30829321" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amirhossein-zareian-a26a3a212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein-zareian-a26a3a212" height="30" width="40" /></a>
 <a href="https://medium.com/@amirhossein.zareian.engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amirhossein.zareian.engineer" height="30" width="40" /></a>
