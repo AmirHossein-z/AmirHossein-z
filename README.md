@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhossein-z&label=Profile%20views&color=0e75b6&style=flat" alt="amirhossein-z" /> </p>
 
-- 🌱 I’m currently learning **reactjs & typescript**
+- 🌱 I’m currently learning **nextjs**
 
 - 📝 I sometimes write articles on [https://virgool.io/@m_38663573](https://virgool.io/@m_38663573)
 
@@ -18,7 +18,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/amirhos30829321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhos30829321" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amirhossein-zareian-a26a3a212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein-zareian-a26a3a212" height="30" width="40" /></a>
 <a href="https://medium.com/@amirhossein.zareian.engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amirhossein.zareian.engineer" height="30" width="40" /></a>
 </p>
