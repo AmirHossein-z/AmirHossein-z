@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhossein-z&label=Profile%20views&color=0e75b6&style=flat" alt="amirhossein-z" /> </p>
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **React native**
 
 - 📝 I sometimes write articles on [https://virgool.io/@m_38663573](https://virgool.io/@m_38663573)
 
