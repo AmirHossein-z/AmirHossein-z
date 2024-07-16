@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/amirhossein-zareian/" target="blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein-zareian" height="30" width="40" />
   </a>
-  <a href="mailto:amirhosseinzareian01@gmail.com>
+  <a href="mailto:amirhosseinzareian01@gmail.com">
     <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="amirhossein-zareian" height="30" width="40" />
   </a>
 
