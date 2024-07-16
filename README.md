@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 📝 I sometimes write articles on [https://medium.com/@Amirhossein_Zareian](medium)
+- 📝 I sometimes write articles on [medium](https://medium.com/@Amirhossein_Zareian)
 
 - 💬 Ask me about **frontend technologies like reactjs, tailwindcss, ...**
 
